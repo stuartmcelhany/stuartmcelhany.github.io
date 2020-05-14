@@ -1,0 +1,8 @@
+I"<p>Boiling point calculator using Peng-Robinson equation of state.</p>
+
+<p><img src="/images/bpcalculator/PREOS_BoilingPoint.png" alt="_config.yml" /></p>
+
+<p>Using the Peng-Robinson equation of state, this code calculates the boiling point temperature at given pressures. The input pressure is used as the saturated pressure in the calculations. The boiling point temperature is found by equating the saturated liquid and saturated vapor fugacities, and numerically solving for the temperature via bisection method. Any fluid can be used as long as the constants are changed to the appropriate values, such as the acentric factor and critical temperature/pressure.</p>
+
+<p><a href="https://github.com/stuartmcelhany/boiling-point-calculator-peng-robinson">GitHub</a></p>
+:ET
