@@ -1,0 +1,57 @@
+I"\<h1 id="projects">Projects</h1>
+
+<div class="posts">
+  
+    <article class="post">
+
+      <h2><a href="/Boiling-Point-Calculator/">Boiling Point Calculator</a></h2>
+
+      <div class="entry">
+        <p>Boiling point calculator using Peng-Robinson equation of state.</p>
+
+      </div>
+      
+      <a href="/Boiling-Point-Calculator/"><img src="/images/bpcalculator/PREOS_BoilingPoint.png" height="240" /></a>
+
+      <br />
+      <br />
+
+      <a href="/Boiling-Point-Calculator/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h2><a href="/Auto-Titrator/">Auto Titrator</a></h2>
+
+      <div class="entry">
+        <p>Non-linear optimization used to fit pH titration data.</p>
+
+      </div>
+      
+      <a href="/Auto-Titrator/"><img src="/images/autotitrator/tcurve.png" height="240" /></a>
+
+      <br />
+      <br />
+
+      <a href="/Auto-Titrator/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h2><a href="/Unit-Cell-Cloner/">Unit Cell Cloner</a></h2>
+
+      <div class="entry">
+        <p>Repeats a unit cell in +/- x, y, and z directions.</p>
+
+      </div>
+      
+      <a href="/Unit-Cell-Cloner/"><img src="/images/unitcellcloner/fau5_3x3x3.png" height="240" /></a>
+
+      <br />
+      <br />
+
+      <a href="/Unit-Cell-Cloner/" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET

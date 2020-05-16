@@ -15,8 +15,8 @@ title: Projects
         {{ post.excerpt }}
       </div>
       
-      <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" height = 240></a>
-      
+      <a href="{{ post.url }}" ><img src="{{ site.baseurl }}{{ post.thumbnail }}" height = 240></a>
+
       <br>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
