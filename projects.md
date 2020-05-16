@@ -15,7 +15,7 @@ title: Projects
         {{ post.excerpt }}
       </div>
       
-      <a href="{{ post.url }}" ><img src="{{ site.baseurl }}{{ post.thumbnail }}" height="240" /></a>
+      <div><a href="{{ post.url }}" ><img src="{{ site.baseurl }}{{ post.thumbnail }}" height="240" /></a></div>
 
       <br>
 
