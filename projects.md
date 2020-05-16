@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-# Projects wip
+# Projects
 
 <div class="posts">
   {% for post in site.posts %}
