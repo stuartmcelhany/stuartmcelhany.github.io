@@ -1,8 +1,0 @@
-I"Ð<p>Non-linear optimization used to fit pH titration data.</p>
-
-<p><img src="/images/autotitrator/tcurve.png" alt="_config.yml" /></p>
-
-<p>The goal of the auto titrator is to bring the pH of any given sample to any user-entered value. Two tanks, one containing acid and one base, are dispensed via peristaltic pumps into the sample. The module is controlled by a Raspberry Pi. Due to the 5 second delay in pH monitoring, predictive methods were used. Non-linear regression was used to fit the first several data experimental data points to a inverse hyperbolic sine function (a function that somewhat resembles a titration curve).</p>
-
-<p><a href="https://github.com/stuartmcelhany/titrator-curve-fitting">GitHub</a></p>
-:ET

@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-# Projects
+# Projects wip
 
 <div class="posts">
   {% for post in site.posts %}
@@ -15,7 +15,7 @@ title: Projects
         {{ post.excerpt }}
       </div>
       
-      <a href="{{ post.url }}" ><img src="{{ site.baseurl }}{{ post.thumbnail }}" height = 240></a>
+      <a href="{{ post.url }}" ><img src="{{ site.baseurl }}{{ post.thumbnail }}" height="240" /></a>
 
       <br>
 
