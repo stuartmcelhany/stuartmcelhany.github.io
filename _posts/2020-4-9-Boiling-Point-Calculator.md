@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boiling Point Calculator
-thumbnail: "/images/bpcalculator/PREOS_BoilingPoint.png"
+thumbnail: /images/bpcalculator/PREOS_BoilingPoint.png
 ---
 
 Boiling point calculator using Peng-Robinson equation of state.
