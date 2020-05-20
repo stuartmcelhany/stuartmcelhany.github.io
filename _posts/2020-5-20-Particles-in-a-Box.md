@@ -6,7 +6,7 @@ thumbnail: /images/particlesinabox/particlesinabox.gif
 
 Simulation of particles in a box.
 
-<video width="600" controls="controls" muted plays-inline autoplay>
+<video width="480" controls="controls" muted plays-inline autoplay>
   <source src="{{ site.baseurl }}/images/particlesinabox/collision.mp4">
 </video>
 
