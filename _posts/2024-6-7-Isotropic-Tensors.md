@@ -8,4 +8,4 @@ Proof for the general form of isotropic fourth-order tensors.
 
 ![Projection tensor]({{ site.baseurl }}/images/tensorproduct.png)
 
-<object data="{{ site.url }}{{ site.baseurl }}/images/isotropic-fourth-order-tensors.pdf" width="750" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/images/isotropic-fourth-order-tensors.pdf#view=FitH" width="750" height="1000" type="application/pdf"></object>
