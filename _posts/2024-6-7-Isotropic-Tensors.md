@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Isotropic Fourth-Order Tensors
-thumbnail: /images/coinflip/dominantconfig.gif
+thumbnail: /images/tensorproduct.png
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/images/isotropic-fourth-order-tensors.pdf" width="1000" height="1000" type="application/pdf"></object>
+Proof for the general form of isotropic fourth-order tensors.
+
+![Projection tensor]({{ site.baseurl }}/images/tensorproduct.png)
+
+<object data="{{ site.url }}{{ site.baseurl }}/images/isotropic-fourth-order-tensors.pdf" width="750" height="1000" type="application/pdf"></object>
